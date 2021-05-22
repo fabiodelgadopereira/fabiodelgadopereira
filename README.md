@@ -1,7 +1,17 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=fabiodelgadopereira.visitor-badge)
+<div align="center">
+  <h1> Hello Friend <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+</div>
 
-### Hello 👋 Friend I'm Fábio
+<p align='center'> 
+<a href="https://www.linkedin.com/in/fabiodelgadopereira/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@fabio.delgado2"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
 
+<div align="center">
+<h3> 🤓 Fabio Delgado | 💻 Software Engineer | 🌏 São Paulo, BR </h3> 
+</div>
+
+### About me 
 <!--
 **fabiodelgadopereira/fabiodelgadopereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +29,10 @@ Here are some ideas to get you started:
 ## 🏆 Github Profile Trophy
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabiodelgadopereira" alt="fabiodelgadopereira" /></a> </p>
+
+#### 👷 Check out what I'm currently working on
+
+- [fabiodelgadopereira/kotlin-sample](https://github.com/fabiodelgadopereira/kotlin-sample) - A sample Rest API using Kotlin
 
 ## 💻  Programming languages, Frameworks, Cloud providers and Databases
 
@@ -53,8 +67,3 @@ Here are some ideas to get you started:
   <img src = "https://github-readme-stats.vercel.app/api?username=fabiodelgadopereira&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=fabiodelgadopereira&hide=css,TSQL,typescript,html&theme=tokyonight">
 </p>
-
-## 🎯 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiodelgadopereira/)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white")](https://medium.com/@fabio.delgado2)
