@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 #### 👷 Check out what I'm currently working on
 
 - [fabiodelgadopereira/kotlin-sample](https://github.com/fabiodelgadopereira/kotlin-sample) - A sample Rest API using Kotlin
+- [fabiodelgadopereira/dotnet5-sample](https://github.com/fabiodelgadopereira/dotnet5-sample) - A sample Rest API using .Net Core 5
 
 ## 💻  Programming languages, Frameworks, Cloud providers and Databases
 
