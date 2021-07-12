@@ -5,7 +5,7 @@
 
 <p align='center'> 
 <a href="https://www.linkedin.com/in/fabiodelgadopereira/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@fabio.delgado2"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://fabio-delgado.medium.com/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/medium.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
 <h3> 🤓 Fabio Delgado | 💻 Software Engineer | 🌏 São Paulo, BR </h3> 
